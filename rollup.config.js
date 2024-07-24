@@ -8,6 +8,6 @@ export default defineConfig({
         format: 'es',
         name: 'next-link-transition'
     },
-    external: ['react', 'react-dom', 'next', 'next/link'],
+    external: ['react', 'react-dom', 'next', 'next/link', 'next/navigation'],
     plugins: [typescript({ tsconfig: 'tsconfig.json' })],
 });
