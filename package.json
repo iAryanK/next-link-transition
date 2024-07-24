@@ -8,8 +8,16 @@
   "scripts": {
     "build": "npx rollup -c"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "next-link",
+    "nextjs",
+    "link",
+    "transition",
+    "animation",
+    "link-animation",
+    "next-link-transition"
+  ],
+  "author": "Aryan (https://www.linkedin.com/in/iaryan/)",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
