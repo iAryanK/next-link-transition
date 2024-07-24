@@ -1,6 +1,6 @@
 {
   "name": "next-link-transition",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Create animated transitions while using next/link under the hood.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
