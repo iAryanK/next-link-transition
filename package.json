@@ -1,0 +1,24 @@
+{
+  "name": "next-link-transition",
+  "version": "1.0.0",
+  "description": "Create animated transitions while using next/link under the hood.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "npx rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.3.3",
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rollup": "^4.19.0",
+    "tslib": "^2.6.3"
+  }
+}
